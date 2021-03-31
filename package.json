@@ -1,0 +1,12 @@
+{
+  "name": "web-crypto",
+  "version": "1.0.0",
+  "description": "crypto library using Web Crypto API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ren1244",
+  "license": "MIT"
+}
