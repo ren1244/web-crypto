@@ -4,9 +4,13 @@
   "description": "crypto library using Web Crypto API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx rollup --config"
   },
   "keywords": [],
   "author": "ren1244",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^2.45.2",
+    "rollup-plugin-uglify": "^6.0.4"
+  }
 }
